@@ -1,0 +1,160 @@
+I (225) spi_flash: flash io: dio
+W (228) spi_flash: Detected size(16384k) larger than the size in the binary image header(2048k). Using the size in the binary image header.
+I (240) sleep_gpio: Configure to isolate all GPIO pins in sleep state
+I (246) sleep_gpio: Enable automatic switching of GPIO sleep configuration
+I (253) main_task: Started on CPU0
+I (253) main_task: Calling app_main()
+I (263) lab2: IO_MUX_GPIO0 = 0x00001b02, GPIO_PIN0 = 0x00002180
+I (263) lab2: Kesme: CPU0, hat 8, matris eşlemesi = 8
+I (273) main_task: Returned from app_main()
+I (17003) lab2: BASMA     1 kenar,      0 us | basış=1 kenar=1 kayıp=0
+I (17013) lab2:          kenar zamanları (us): 0
+I (17033) lab2: BIRAKMA   1 kenar,      0 us | basış=1 kenar=2 kayıp=0
+I (17033) lab2:          kenar zamanları (us): 0
+I (18273) lab2: BASMA     1 kenar,      0 us | basış=2 kenar=3 kayıp=0
+I (18273) lab2:          kenar zamanları (us): 0
+I (18473) lab2: BIRAKMA   1 kenar,      0 us | basış=2 kenar=4 kayıp=0
+I (18473) lab2:          kenar zamanları (us): 0
+I (19053) lab2: BASMA     1 kenar,      0 us | basış=3 kenar=5 kayıp=0
+I (19053) lab2:          kenar zamanları (us): 0
+I (19233) lab2: BIRAKMA   1 kenar,      0 us | basış=3 kenar=6 kayıp=0
+I (19233) lab2:          kenar zamanları (us): 0
+I (19863) lab2: BASMA     1 kenar,      0 us | basış=4 kenar=7 kayıp=0
+I (19863) lab2:          kenar zamanları (us): 0
+I (20043) lab2: BIRAKMA   1 kenar,      0 us | basış=4 kenar=8 kayıp=0
+I (20043) lab2:          kenar zamanları (us): 0
+I (20793) lab2: BASMA     1 kenar,      0 us | basış=5 kenar=9 kayıp=0
+I (20793) lab2:          kenar zamanları (us): 0
+I (20993) lab2: BIRAKMA   1 kenar,      0 us | basış=5 kenar=10 kayıp=0
+I (20993) lab2:          kenar zamanları (us): 0
+I (37683) lab2: BASMA     1 kenar,      0 us | basış=6 kenar=11 kayıp=0
+I (37683) lab2:          kenar zamanları (us): 0
+I (37683) lab2: gürültü  1 kenar,      0 us | basış=6 kenar=12 kayıp=0
+I (37693) lab2:          kenar zamanları (us): 0
+I (37703) lab2: gürültü 14 kenar,   2399 us | basış=6 kenar=26 kayıp=0
+I (37703) lab2:          kenar zamanları (us): 0 430 444 465 687 690 1265 1269 1273 1276 1279 1449 ...
+I (37713) lab2: gürültü 11 kenar,    226 us | basış=6 kenar=37 kayıp=0
+I (37723) lab2:          kenar zamanları (us): 0 3 6 9 173 187 202 208 215 223 226
+I (37733) lab2: gürültü 28 kenar,   1412 us | basış=6 kenar=65 kayıp=0
+I (37733) lab2:          kenar zamanları (us): 0 1121 1128 1144 1145 1151 1158 1165 1170 1171 1174 1189 ...
+I (37763) lab2: gürültü  1 kenar,      0 us | basış=6 kenar=66 kayıp=0
+I (37763) lab2:          kenar zamanları (us): 0
+I (37763) lab2: gürültü 20 kenar,    308 us | basış=6 kenar=86 kayıp=0
+I (37763) lab2:          kenar zamanları (us): 0 2 17 40 48 61 67 68 105 119 164 185 ...
+I (37773) lab2: gürültü 64 kenar,   4137 us | basış=6 kenar=150 kayıp=198
+I (37783) lab2:          kenar zamanları (us): 0 3284 3289 3291 3293 3296 3301 3305 3309 3311 3321 3358 ...
+I (37893) lab2: gürültü  1 kenar,      0 us | basış=6 kenar=151 kayıp=198
+I (37903) lab2:          kenar zamanları (us): 0
+I (37903) lab2: gürültü  1 kenar,      0 us | basış=6 kenar=152 kayıp=198
+I (37903) lab2:          kenar zamanları (us): 0
+I (37913) lab2: gürültü 12 kenar,    749 us | basış=6 kenar=164 kayıp=198
+I (37913) lab2:          kenar zamanları (us): 0 1 14 173 202 560 569 584 592 595 604 749
+I (37993) lab2: gürültü  3 kenar,     10 us | basış=6 kenar=167 kayıp=198
+I (38003) lab2:          kenar zamanları (us): 0 3 10
+I (38003) lab2: gürültü  1 kenar,      0 us | basış=6 kenar=168 kayıp=198
+I (38003) lab2:          kenar zamanları (us): 0
+I (38013) lab2: gürültü  1 kenar,      0 us | basış=6 kenar=169 kayıp=198
+I (38013) lab2:          kenar zamanları (us): 0
+I (38053) lab2: gürültü  6 kenar,     31 us | basış=6 kenar=175 kayıp=198
+I (38053) lab2:          kenar zamanları (us): 0 3 5 10 12 31
+I (38053) lab2: BIRAKMA  29 kenar,   1570 us | basış=6 kenar=204 kayıp=198
+I (38063) lab2:          kenar zamanları (us): 0 5 29 1218 1222 1224 1240 1242 1263 1267 1270 1279 ...
+I (38063) lab2: gürültü 33 kenar,    576 us | basış=6 kenar=237 kayıp=198
+I (38073) lab2:          kenar zamanları (us): 0 3 24 26 30 32 33 35 37 40 43 45 ...
+I (39003) lab2: BASMA     1 kenar,      0 us | basış=7 kenar=238 kayıp=198
+I (39003) lab2:          kenar zamanları (us): 0
+I (39003) lab2: gürültü 10 kenar,    144 us | basış=7 kenar=248 kayıp=198
+I (39013) lab2:          kenar zamanları (us): 0 4 12 34 38 67 88 135 139 144
+I (39033) lab2: BIRAKMA   1 kenar,      0 us | basış=7 kenar=249 kayıp=198
+I (39033) lab2:          kenar zamanları (us): 0
+I (39033) lab2: BASMA     3 kenar,     17 us | basış=8 kenar=252 kayıp=198
+I (39043) lab2:          kenar zamanları (us): 0 10 17
+I (39463) lab2: gürültü 11 kenar,     73 us | basış=8 kenar=263 kayıp=198
+I (39463) lab2:          kenar zamanları (us): 0 7 9 16 22 28 34 37 45 69 73
+I (39473) lab2: BIRAKMA  25 kenar,   1030 us | basış=8 kenar=288 kayıp=198
+I (39473) lab2:          kenar zamanları (us): 0 22 24 29 31 35 44 62 65 70 79 84 ...
+I (40513) lab2: BASMA     1 kenar,      0 us | basış=9 kenar=289 kayıp=198
+I (40513) lab2:          kenar zamanları (us): 0
+I (40513) lab2: gürültü  1 kenar,      0 us | basış=9 kenar=290 kayıp=198
+I (40513) lab2:          kenar zamanları (us): 0
+I (40543) lab2: gürültü  1 kenar,      0 us | basış=9 kenar=291 kayıp=198
+I (40543) lab2:          kenar zamanları (us): 0
+I (40543) lab2: gürültü  2 kenar,     72 us | basış=9 kenar=293 kayıp=198
+I (40553) lab2:          kenar zamanları (us): 0 72
+I (40553) lab2: BIRAKMA  47 kenar,   3585 us | basış=9 kenar=340 kayıp=198
+I (40563) lab2:          kenar zamanları (us): 0 91 98 253 264 274 292 302 307 324 339 346 ...
+I (40573) lab2: BASMA    39 kenar,   6603 us | basış=10 kenar=379 kayıp=198
+I (40583) lab2:          kenar zamanları (us): 0 46 314 625 645 700 722 1056 1175 1317 1318 1451 ...
+I (40583) lab2: gürültü 19 kenar,  12467 us | basış=10 kenar=398 kayıp=198
+I (40593) lab2:          kenar zamanları (us): 0 1727 2277 2295 2312 2363 2391 2443 2576 2625 2755 2965 ...
+I (40603) lab2: gürültü  3 kenar,     57 us | basış=10 kenar=401 kayıp=198
+I (40613) lab2:          kenar zamanları (us): 0 17 57
+I (40683) lab2: gürültü  1 kenar,      0 us | basış=10 kenar=402 kayıp=198
+I (40683) lab2:          kenar zamanları (us): 0
+I (40683) lab2: gürültü  1 kenar,      0 us | basış=10 kenar=403 kayıp=198
+I (40693) lab2:          kenar zamanları (us): 0
+I (40693) lab2: gürültü  1 kenar,      0 us | basış=10 kenar=404 kayıp=198
+I (40703) lab2:          kenar zamanları (us): 0
+I (40963) lab2: gürültü  1 kenar,      0 us | basış=10 kenar=405 kayıp=198
+I (40963) lab2:          kenar zamanları (us): 0
+I (40963) lab2: gürültü  1 kenar,      0 us | basış=10 kenar=406 kayıp=198
+I (40973) lab2:          kenar zamanları (us): 0
+I (40973) lab2: BIRAKMA  64 kenar,    726 us | basış=10 kenar=470 kayıp=224
+I (40983) lab2:          kenar zamanları (us): 0 56 62 73 77 79 109 111 117 119 120 122 ...
+I (41963) lab2: BASMA     1 kenar,      0 us | basış=11 kenar=471 kayıp=224
+I (41963) lab2:          kenar zamanları (us): 0
+I (41963) lab2: BIRAKMA   5 kenar,    346 us | basış=11 kenar=476 kayıp=224
+I (41973) lab2:          kenar zamanları (us): 0 306 341 344 346
+I (41983) lab2: BASMA    29 kenar,    262 us | basış=12 kenar=505 kayıp=224
+I (41983) lab2:          kenar zamanları (us): 0 6 8 12 18 25 33 37 45 47 48 51 ...
+I (42333) lab2: BIRAKMA   1 kenar,      0 us | basış=12 kenar=506 kayıp=224
+I (42333) lab2:          kenar zamanları (us): 0
+I (42333) lab2: BASMA    39 kenar,    291 us | basış=13 kenar=545 kayıp=224
+I (42333) lab2:          kenar zamanları (us): 0 1 9 31 33 42 50 94 96 98 101 102 ...
+I (42343) lab2: BIRAKMA  64 kenar,  10984 us | basış=13 kenar=609 kayıp=233
+I (42353) lab2:          kenar zamanları (us): 0 30 35 393 400 406 419 432 439 454 491 499 ...
+I (43583) lab2: BASMA     1 kenar,      0 us | basış=14 kenar=610 kayıp=233
+I (43583) lab2:          kenar zamanları (us): 0
+I (43593) lab2: BIRAKMA   1 kenar,      0 us | basış=14 kenar=611 kayıp=233
+I (43593) lab2:          kenar zamanları (us): 0
+I (43593) lab2: BASMA    43 kenar,    238 us | basış=15 kenar=654 kayıp=233
+I (43603) lab2:          kenar zamanları (us): 0 3 6 8 10 13 27 31 32 34 39 43 ...
+I (43643) lab2: gürültü  1 kenar,      0 us | basış=15 kenar=655 kayıp=233
+I (43643) lab2:          kenar zamanları (us): 0
+I (43643) lab2: gürültü  1 kenar,      0 us | basış=15 kenar=656 kayıp=233
+I (43653) lab2:          kenar zamanları (us): 0
+I (43653) lab2: gürültü 70 kenar,   9805 us | basış=15 kenar=726 kayıp=507
+I (43663) lab2:          kenar zamanları (us): 0 5108 5112 5117 5126 5127 5129 5131 5132 5155 5159 5172 ...
+I (43673) lab2: gürültü 65 kenar,  16724 us | basış=15 kenar=791 kayıp=1333
+I (43673) lab2:          kenar zamanları (us): 0 4 7 72 75 78 106 107 112 116 123 128 ...
+I (43683) lab2: gürültü 64 kenar,   2923 us | basış=15 kenar=855 kayıp=1420
+I (43693) lab2:          kenar zamanları (us): 0 8 51 58 110 115 148 152 166 172 178 189 ...
+I (43763) lab2: gürültü  1 kenar,      0 us | basış=15 kenar=856 kayıp=1420
+I (43763) lab2:          kenar zamanları (us): 0
+I (43763) lab2: gürültü  3 kenar,     85 us | basış=15 kenar=859 kayıp=1420
+I (43763) lab2:          kenar zamanları (us): 0 1 85
+I (43773) lab2: gürültü  9 kenar,   5430 us | basış=15 kenar=868 kayıp=1420
+I (43783) lab2:          kenar zamanları (us): 0 206 1660 4788 4839 4854 4882 4889 5430
+I (43783) lab2: gürültü 22 kenar,   8562 us | basış=15 kenar=890 kayıp=1420
+I (43793) lab2:          kenar zamanları (us): 0 169 249 332 337 344 393 1820 2079 2094 2252 7965 ...
+I (43863) lab2: gürültü  1 kenar,      0 us | basış=15 kenar=891 kayıp=1420
+I (43863) lab2:          kenar zamanları (us): 0
+I (43863) lab2: gürültü  7 kenar,    100 us | basış=15 kenar=898 kayıp=1420
+I (43873) lab2:          kenar zamanları (us): 0 9 38 44 59 64 100
+I (43953) lab2: BIRAKMA   1 kenar,      0 us | basış=15 kenar=899 kayıp=1420
+I (43953) lab2:          kenar zamanları (us): 0
+I (43953) lab2: BASMA     3 kenar,    143 us | basış=16 kenar=902 kayıp=1420
+I (43963) lab2:          kenar zamanları (us): 0 141 143
+I (43963) lab2: gürültü  4 kenar,    664 us | basış=16 kenar=906 kayıp=1420
+I (43973) lab2:          kenar zamanları (us): 0 96 520 664
+I (43973) lab2: gürültü  6 kenar,    195 us | basış=16 kenar=912 kayıp=1420
+I (43983) lab2:          kenar zamanları (us): 0 12 32 101 140 195
+I (44613) lab2: BIRAKMA   1 kenar,      0 us | basış=16 kenar=913 kayıp=1420
+I (44613) lab2:          kenar zamanları (us): 0
+I (44613) lab2: BASMA     4 kenar,      7 us | basış=17 kenar=917 kayıp=1420
+I (44613) lab2:          kenar zamanları (us): 0 2 5 7
+I (44623) lab2: BIRAKMA   5 kenar,    551 us | basış=17 kenar=922 kayıp=1420
+I (44633) lab2:          kenar zamanları (us): 0 124 385 550 551
+
+Done
+(venv) PS C:\esp-lab\ileri_gomulu_lab1_lab2_lab3\ileri_gomulu_lab1_lab2_lab3\lab2\lab2_buton>

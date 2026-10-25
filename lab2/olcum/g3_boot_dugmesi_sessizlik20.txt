@@ -1,0 +1,107 @@
+I (240) sleep_gpio: Configure to isolate all GPIO pins in sleep state
+I (246) sleep_gpio: Enable automatic switching of GPIO sleep configuration
+I (253) main_task: Started on CPU0
+I (253) main_task: Calling app_main()
+I (263) lab2: IO_MUX_GPIO0 = 0x00001b02, GPIO_PIN0 = 0x00002180
+I (263) lab2: Kesme: CPU0, hat 8, matris eşlemesi = 8
+I (273) main_task: Returned from app_main()
+I (32553) lab2: BASMA     1 kenar,      0 us | basış=1 kenar=1 kayıp=0
+I (32553) lab2:          kenar zamanları (us): 0
+I (33203) lab2: BIRAKMA   1 kenar,      0 us | basış=1 kenar=2 kayıp=0
+I (33203) lab2:          kenar zamanları (us): 0
+I (34193) lab2: BASMA     1 kenar,      0 us | basış=2 kenar=3 kayıp=0
+I (34193) lab2:          kenar zamanları (us): 0
+I (35003) lab2: BIRAKMA   1 kenar,      0 us | basış=2 kenar=4 kayıp=0
+I (35003) lab2:          kenar zamanları (us): 0
+I (36263) lab2: BASMA     1 kenar,      0 us | basış=3 kenar=5 kayıp=0
+I (36263) lab2:          kenar zamanları (us): 0
+I (36933) lab2: BIRAKMA   1 kenar,      0 us | basış=3 kenar=6 kayıp=0
+I (36933) lab2:          kenar zamanları (us): 0
+I (39813) lab2: BASMA     1 kenar,      0 us | basış=4 kenar=7 kayıp=0
+I (39813) lab2:          kenar zamanları (us): 0
+I (40243) lab2: BIRAKMA   1 kenar,      0 us | basış=4 kenar=8 kayıp=0
+I (40243) lab2:          kenar zamanları (us): 0
+I (41193) lab2: BASMA     1 kenar,      0 us | basış=5 kenar=9 kayıp=0
+I (41193) lab2:          kenar zamanları (us): 0
+I (41223) lab2: BIRAKMA   1 kenar,      0 us | basış=5 kenar=10 kayıp=0
+I (41223) lab2:          kenar zamanları (us): 0
+I (44113) lab2: BASMA     1 kenar,      0 us | basış=6 kenar=11 kayıp=0
+I (44113) lab2:          kenar zamanları (us): 0
+I (44423) lab2: BIRAKMA   1 kenar,      0 us | basış=6 kenar=12 kayıp=0
+I (44423) lab2:          kenar zamanları (us): 0
+I (45223) lab2: BASMA     1 kenar,      0 us | basış=7 kenar=13 kayıp=0
+I (45223) lab2:          kenar zamanları (us): 0
+I (45553) lab2: BIRAKMA   1 kenar,      0 us | basış=7 kenar=14 kayıp=0
+I (45553) lab2:          kenar zamanları (us): 0
+I (46453) lab2: BASMA     1 kenar,      0 us | basış=8 kenar=15 kayıp=0
+I (46453) lab2:          kenar zamanları (us): 0
+I (46723) lab2: BIRAKMA   1 kenar,      0 us | basış=8 kenar=16 kayıp=0
+I (46723) lab2:          kenar zamanları (us): 0
+I (47513) lab2: BASMA     1 kenar,      0 us | basış=9 kenar=17 kayıp=0
+I (47513) lab2:          kenar zamanları (us): 0
+I (47753) lab2: BIRAKMA   1 kenar,      0 us | basış=9 kenar=18 kayıp=0
+I (47753) lab2:          kenar zamanları (us): 0
+I (48663) lab2: BASMA     1 kenar,      0 us | basış=10 kenar=19 kayıp=0
+I (48663) lab2:          kenar zamanları (us): 0
+I (48893) lab2: BIRAKMA   1 kenar,      0 us | basış=10 kenar=20 kayıp=0
+I (48893) lab2:          kenar zamanları (us): 0
+I (49963) lab2: BASMA     1 kenar,      0 us | basış=11 kenar=21 kayıp=0
+I (49963) lab2:          kenar zamanları (us): 0
+I (50193) lab2: BIRAKMA   1 kenar,      0 us | basış=11 kenar=22 kayıp=0
+I (50193) lab2:          kenar zamanları (us): 0
+I (53383) lab2: BASMA     1 kenar,      0 us | basış=12 kenar=23 kayıp=0
+I (53383) lab2:          kenar zamanları (us): 0
+I (53553) lab2: BIRAKMA   1 kenar,      0 us | basış=12 kenar=24 kayıp=0
+I (53553) lab2:          kenar zamanları (us): 0
+I (53833) lab2: BASMA     1 kenar,      0 us | basış=13 kenar=25 kayıp=0
+I (53833) lab2:          kenar zamanları (us): 0
+I (54033) lab2: BIRAKMA   1 kenar,      0 us | basış=13 kenar=26 kayıp=0
+I (54033) lab2:          kenar zamanları (us): 0
+I (54373) lab2: BASMA     1 kenar,      0 us | basış=14 kenar=27 kayıp=0
+I (54373) lab2:          kenar zamanları (us): 0
+I (54583) lab2: BIRAKMA   1 kenar,      0 us | basış=14 kenar=28 kayıp=0
+I (54583) lab2:          kenar zamanları (us): 0
+I (54943) lab2: BASMA     1 kenar,      0 us | basış=15 kenar=29 kayıp=0
+I (54943) lab2:          kenar zamanları (us): 0
+I (55133) lab2: BIRAKMA   1 kenar,      0 us | basış=15 kenar=30 kayıp=0
+I (55133) lab2:          kenar zamanları (us): 0
+I (55463) lab2: BASMA     1 kenar,      0 us | basış=16 kenar=31 kayıp=0
+I (55463) lab2:          kenar zamanları (us): 0
+I (55653) lab2: BIRAKMA   1 kenar,      0 us | basış=16 kenar=32 kayıp=0
+I (55653) lab2:          kenar zamanları (us): 0
+I (56033) lab2: BASMA     1 kenar,      0 us | basış=17 kenar=33 kayıp=0
+I (56033) lab2:          kenar zamanları (us): 0
+I (56233) lab2: BIRAKMA   1 kenar,      0 us | basış=17 kenar=34 kayıp=0
+I (56233) lab2:          kenar zamanları (us): 0
+I (56573) lab2: BASMA     1 kenar,      0 us | basış=18 kenar=35 kayıp=0
+I (56573) lab2:          kenar zamanları (us): 0
+I (56773) lab2: BIRAKMA   1 kenar,      0 us | basış=18 kenar=36 kayıp=0
+I (56773) lab2:          kenar zamanları (us): 0
+I (58813) lab2: BASMA     1 kenar,      0 us | basış=19 kenar=37 kayıp=0
+I (58813) lab2:          kenar zamanları (us): 0
+I (58953) lab2: BIRAKMA   1 kenar,      0 us | basış=19 kenar=38 kayıp=0
+I (58953) lab2:          kenar zamanları (us): 0
+I (59163) lab2: BASMA     1 kenar,      0 us | basış=20 kenar=39 kayıp=0
+I (59163) lab2:          kenar zamanları (us): 0
+I (59423) lab2: BIRAKMA   1 kenar,      0 us | basış=20 kenar=40 kayıp=0
+I (59423) lab2:          kenar zamanları (us): 0
+I (59533) lab2: BASMA     1 kenar,      0 us | basış=21 kenar=41 kayıp=0
+I (59533) lab2:          kenar zamanları (us): 0
+I (59693) lab2: BIRAKMA   1 kenar,      0 us | basış=21 kenar=42 kayıp=0
+I (59693) lab2:          kenar zamanları (us): 0
+I (59893) lab2: BASMA     1 kenar,      0 us | basış=22 kenar=43 kayıp=0
+I (59893) lab2:          kenar zamanları (us): 0
+I (60013) lab2: BIRAKMA   1 kenar,      0 us | basış=22 kenar=44 kayıp=0
+I (60013) lab2:          kenar zamanları (us): 0
+I (60183) lab2: BASMA     1 kenar,      0 us | basış=23 kenar=45 kayıp=0
+I (60183) lab2:          kenar zamanları (us): 0
+I (60323) lab2: BIRAKMA   1 kenar,      0 us | basış=23 kenar=46 kayıp=0
+I (60323) lab2:          kenar zamanları (us): 0
+I (60633) lab2: BASMA     1 kenar,      0 us | basış=24 kenar=47 kayıp=0
+I (60633) lab2:          kenar zamanları (us): 0
+I (60733) lab2: BIRAKMA   1 kenar,      0 us | basış=24 kenar=48 kayıp=0
+I (60733) lab2:          kenar zamanları (us): 0
+I (60933) lab2: BASMA     1 kenar,      0 us | basış=25 kenar=49 kayıp=0
+I (60933) lab2:          kenar zamanları (us): 0
+I (61093) lab2: BIRAKMA   1 kenar,      0 us | basış=25 kenar=50 kayıp=0
+I (61093) lab2:          kenar zamanları (us): 0
